@@ -1,1 +1,2 @@
-# diegosimao
+# GPenSIM - General purpose Petri Net Simulator
+Here is a Petri Net simulator that works in a Matlab environment developed by Reggie Davidrajuh (reggie.Davidrajuh@uis.no), this simulator is versatile. It offers the possibility to work with Colored Petri Net, Conventional Petri Net, Timed Petri Net, Modular Petri Net etc. Some analyzes such as cover tree, cost calculation, inhibitor arcs, prioritization of transitions, invariants.-
